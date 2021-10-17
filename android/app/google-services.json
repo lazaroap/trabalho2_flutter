@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229174026578",
+    "project_id": "cadastro-cachorros",
+    "storage_bucket": "cadastro-cachorros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229174026578:android:5569c01feb48bed1ed5a8b",
+        "android_client_info": {
+          "package_name": "com.example.cadastro_cachorros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229174026578-cfsebf56qd41vqdaqirglt2nmb2prlq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUzmvay8fMOHK-f9sqGAjKGJkv-Nx4Auw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229174026578-cfsebf56qd41vqdaqirglt2nmb2prlq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
